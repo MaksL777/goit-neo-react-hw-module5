@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+}
+.backBtn {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  border: 1px solid gray;
+  border-radius: 4px;
+  text-decoration: none;
+  color: black;
+}
+.movieInfo {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+.poster {
+  max-width: 300px;
+  border-radius: 8px;
+}
